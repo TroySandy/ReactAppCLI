@@ -39,11 +39,13 @@ footer p{
 
 ul{
   list-style-type: none;
+  text-align: center;
+  justify-content: center;
 }
 
 /* SideBar */
 .sidebar-list-styling{
-  padding-left: 50px;
+  padding-left: 5px;
   padding-top: 10px;
   width: 20%;
   background-color: #53565A;

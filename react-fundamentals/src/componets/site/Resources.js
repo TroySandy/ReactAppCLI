@@ -13,17 +13,18 @@ const Resources = () => {
             <a
               href="https://reactjs.org/docs/getting-started.html"
               target="_blank"
+              rel="noreferrer"
             >
               The Offical Docs
             </a>
           </li>
           <li>
-            <a href="https://reacttraining.com/react-router" target="_blank">
+            <a href="https://reacttraining.com/react-router" target="_blank" rel="noreferrer">
               React Router Dom
             </a>
           </li>
           <li>
-            <a href="https://udemy.com/course/react-redux/" target="_blank">
+            <a href="https://udemy.com/course/react-redux/" target="_blank" rel="noreferrer">
               Stephen Grider's Udemy for the Udemy API
             </a>
           </li>
@@ -31,6 +32,7 @@ const Resources = () => {
             <a
               href="https://pluralsight.com/sourse/react-js-getting-started"
               target="_blank"
+              rel="noreferrer"
             >
               Samer Buna's Pluaralsight Course for the GitHub API Starter
             </a>
@@ -39,6 +41,7 @@ const Resources = () => {
             <a
               href="https://udemy.com/course/react-the-guide-incl-redux"
               target="_blank"
+              rel="noreferrer"
             >
               Maximilian Scharzmuller's Udemy Course
             </a>
@@ -47,6 +50,7 @@ const Resources = () => {
             <a
               href="https://gorangajic.github.io/react-icons/fa.html"
               target="_blank"
+              rel="noreferrer"
             >
               Font Awesome for React
             </a>
@@ -55,6 +59,7 @@ const Resources = () => {
             <a
               href="https://github.com/bmorelli25/interactive-bitcoin-price-chart"
               target="_blank"
+              rel="noreferrer"
             >
               Bitcoin
             </a>
@@ -63,6 +68,7 @@ const Resources = () => {
             <a
               href="https://github.com/mthorry/earthquakes-mapper"
               target="_blank"
+              rel="noreferrer"
             >
               Google Maps
             </a>
@@ -71,6 +77,7 @@ const Resources = () => {
             <a
               href="https://neptunian.github.io/react-photo-gallery"
               target="_blank"
+              rel="noreferrer"
             >
               React Photo Gallery
             </a>
